@@ -1,6 +1,6 @@
 # ABCRNet
 
-ABCRNet is a CNN developed to predict compartment membership ratios using a reference genome (i.e., DNA sequence) as input. This project is an extensive modification of ABCNet originally developed by Matthew Kirchoff.
+ABCRNet is a CNN developed to predict compartment membership ratios using a reference genome (i.e., DNA sequence) as input. This project is an extensive modification of ABCNet originally developed by Matthew Kirchhoff.
 
 M. Kirchhof, C. J. Cameron and S. C. Kremer, "End-to-end chromosomal compartment prediction from reference genomes," 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021, pp. 50-57, doi: 10.1109/BIBM52615.2021.9669521 
 
