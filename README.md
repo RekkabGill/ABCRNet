@@ -50,7 +50,7 @@ CMR_Analysis.py species
 
 positional arguments:
 
-    species    can be either human or mouse
+    species    can be either "human" or "mouse"
 ```
 
 
