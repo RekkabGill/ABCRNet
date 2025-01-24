@@ -290,7 +290,7 @@ if __name__ == "__main__":
         df_total = pd.concat([df_total,df_temp])
         
         
-        #CONFUSION MATRIX:
+        #CONFUSION MATRI:
         '''
         test_predictions = []
         for prediction in y_test_prediction:
