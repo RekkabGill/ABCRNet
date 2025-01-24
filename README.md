@@ -53,4 +53,19 @@ positional arguments:
     species    can be either "human" or "mouse"
 ```
 
+## ABCRLin:
+
+ABCRLin is a linear model used to compare to ABCRNet. The input is the amount of GC-content from 250 kb bins. The output is the target CMR values. The model uses the gc_content.csv in the data_files. 
+
+### Running ABCRLin.py
+
+1. To run, adjust the data input/output paths in the file to point to the correct locations
+```
+ABCRLin.py species
+
+positional arguments:
+
+    species    can be either "human" or "mouse"
+```
+
 
